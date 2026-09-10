@@ -8,8 +8,8 @@ Praktikum eksplorasi data pada dataset Iris:
 pemeriksaan struktur, kualitas data, dan visualisasi.
 
 ## Isi Repositori
-- PM_TuRi1_EDA_Nama.ipynb : notebook praktikum
-- 
+- PM_P2_NaulaAlfiyatulFauziyyah_2488010063.ipynb : notebook praktikum
+
 ## Temuan Utama
 Pembagian data dapat menggunakan test_size. Misalnya test_size=0.2 berarti sekitar 20% data digunakan sebagai data uji dan sisanya sebagai data latih.
 Alur kerja Machine Learning bersifat iteratif. Model tidak langsung mendapatkan hasil terbaik dalam satu proses. Data, fitur, algoritma, atau parameter dapat diperbaiki kemudian model dilatih dan diuji kembali.
