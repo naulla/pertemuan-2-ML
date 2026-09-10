@@ -4,8 +4,7 @@ Nama : Naula Alfiyatul Fauziyyah
 NIM : 2488010063
 
 ## Ringkasan
-Praktikum eksplorasi data pada dataset Iris:
-pemeriksaan struktur, kualitas data, dan visualisasi.
+Supervised, reinforcement, instans, fitur, label.
 
 ## Isi Repositori
 - PM_P2_NaulaAlfiyatulFauziyyah_2488010063.ipynb : notebook praktikum
